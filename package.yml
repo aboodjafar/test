@@ -1,1 +1,5 @@
-
+---
+- hosts: all
+  tasks:
+   - name: Hello all
+     
